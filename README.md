@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm Rafał Manhart-Małeska
+
+My main fields of interest are:
+
+✨distributed systems 
+🌱opensource
+⛅hyperscalers.
+
+This here is my private GitHub account that contains projects I'm currently interested in. 
+
+
 <!--
 **RafalMaleska/RafalMaleska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
